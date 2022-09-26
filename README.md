@@ -3,7 +3,7 @@ Terceira entrega do Projeto Agencia de Viagens [Recode]
 
 <h1>Sistema de Cadastro</h1> 
  
- Nesse Projeto  usei as linguagens Sql e java + servlet + tomcat 
+ Nesse Projeto  usei as linguagens Sql + java + servlet + tomcat 
  
 
  
