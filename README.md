@@ -25,9 +25,13 @@ Terceira entrega do Projeto Agencia de Viagens [Recode]
    
    Para ver todas as imgens link abaixo:
    
+      
   <blockquote class="imgur-embed-pub" lang="en" data-id="a/sMvMFWY"  ><a href="//imgur.com/a/sMvMFWY">Imagens do projeto Sistema de cadastro</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   
   
-   
+   <h4>
+    "fiz esse projeto com muito esforço e determinação, espero que gostem!!"
+    estou aberta a sugestões
+   </h4>
    
    
