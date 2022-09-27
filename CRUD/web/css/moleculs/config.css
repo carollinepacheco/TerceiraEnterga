@@ -1,0 +1,13 @@
+/* fonts 
+------------------------*/
+body, html {
+    font-family: "Roboto", sans-serif;
+}
+
+/* color
+--------------------- */
+:root {
+    --one: #000000;
+    --two: #0fad31;
+    --three: #ffffff;
+}
